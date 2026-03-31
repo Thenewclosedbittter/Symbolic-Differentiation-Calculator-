@@ -62,11 +62,6 @@ class Fraction:
         return Fraction(new_num, new_den)
 
 
-fraction = Fraction(3, 5)
-fraction1 = Fraction(3, 4)
-print(fraction.divide(fraction1))
-
-
 # Power rule for single terms
 def power_rule(df_x):
     a = ""
