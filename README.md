@@ -3,6 +3,9 @@ WORK IN PROGRESS 🚧
 
 CURRENTLY THIS ONLY SUPPORTS POWER RULE. The fraction support does not support simplification yet. 
 
+I have only tested this program on my Casio fx-9750GIII, but it should work on calculators with Python support and on computers. 
+
+
 
 Written in Python, this program symbolically differentiates functions. Most calculators can only numerically differentiate because they are not doing any algebraic manipulation to get the answer and instead are using the limit defintion of a derivative. This program, on the other hand, is implementing power rule, chain, rule, trig functions, etc. 
 
